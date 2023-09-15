@@ -1,6 +1,6 @@
 # Flappy Bird:
 
-[Play](https://anirbanpaulin.github.io/Flappy-Bird-Game/)
+[Play](https://anirbanpaulcom.github.io/Flappy-Bird-Game/)
 
 
 
